@@ -1,0 +1,105 @@
+h1 {
+  font-family: Verdana, sans-serif;
+}
+h4 {
+  font-family: Verdana, sans-serif;
+  font-weight: 700;
+  color: rgb(97, 27, 121);
+  padding-top: 10px;
+}
+.text-white {
+  padding-top: 100px;
+  font-size: 30px;
+}
+.carousel-item {
+  height: 700px;
+  overflow: hidden;
+}
+.card-img-top {
+  border-radius: 0;
+  background-size: cover;
+  height: 430px;
+}
+.card-text {
+  color: blueviolet;
+  font-weight: 500px;
+  font-size: 15px;
+}
+.card-body {
+  padding: 40px;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  border: transparent;
+}
+.content1 {
+  background-image: url("meditation-1384758__480.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 100%;
+}
+.content2 {
+  background-image: url("3.png");
+  background-size: cover;
+  background-position: center center;
+  height: 700px;
+
+  padding-top: 100px;
+  padding-left: 30px;
+}
+.carousel-control-prev-icon {
+  background-color: blueviolet;
+}
+.carousel-control-next-icon {
+  background-color: blueviolet;
+}
+.carousel-control-prev {
+  left: -40px;
+  top: -200px;
+}
+.carousel-control-next {
+  right: -40px;
+  top: -200px;
+}
+.carousel-indicators {
+  margin-bottom: 280px;
+  margin-left: 70%;
+}
+.carousel-indicators [data-bs-target] {
+  background-color: rgb(223, 55, 218);
+}
+.btn {
+  width: 280px;
+  cursor: pointer;
+  border-radius: 15px;
+  color: blue;
+  font-size: 13px;
+}
+.btn:hover {
+  background-color: rgb(223, 55, 218);
+}
+span {
+  padding-left: 20px;
+  transition: 0.5s ease-out;
+}
+.btn:hover span {
+  padding-left: 50px;
+}
+.big {
+  text-decoration: none;
+}
+.big:hover {
+  color: rgb(55, 9, 54);
+}
+.fw-bolder {
+  font-size: 18px;
+  color: rgb(97, 27, 121);
+  padding-top: 15px;
+}
+.little {
+  color: rgb(97, 27, 121);
+}
+.border-2 {
+  width: 310px;
+}
